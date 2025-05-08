@@ -3,6 +3,7 @@
 
 I'm Bayart, a Software Engineer having 10+ years of experience working in various domains like full stack, backend engineering, machine learning, and desktop software development.
 
+![Profile Views](https://komarev.com/ghpvc/?username=bayart&color=blue)
 
 <!--
 **bayart/bayart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
