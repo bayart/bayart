@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, Welcome to my Github page!
+
+
+I'm Bayart, a Software Engineer having 10+ years of experience working in various domains like full stack, backend engineering, machine learning, and desktop software development.
+
 
 <!--
 **bayart/bayart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
